@@ -1,4 +1,7 @@
 # Machine-Learning
+This repository contains a recommender system using a regression model with 6 labels implemented using feedforward neural network architecture.
+
+## Table of Contents
 For machine learning side of bitebyte app
 
 M037DKY3884– Deo Ulina Nopiska Marbun
