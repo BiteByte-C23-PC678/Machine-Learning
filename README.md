@@ -4,7 +4,7 @@ This repository contains a recommender system using a regression model with 6 la
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Datasets](#Datasets)
-* [Model Architecture](#ModelArchitecture "Goto Model Architecture")
+* [Model Architecture](#Model-Architecture "Goto Model Architecture")
 * [Training](#Training)
 * [Evaluation](#Evaluation)
 
