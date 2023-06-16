@@ -17,7 +17,7 @@ Team Member :
 * M340DKY3933 – Khusna Hanifah
 
 ## Datasets
-* [Food.com Recipes and Interactions](#https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv)
+* [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv)
 
 We have 5 classes in total:
 1. calories
