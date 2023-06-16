@@ -12,9 +12,11 @@ This repository contains a recommender system using a regression model with 6 la
 This repository contains a recommender system using a regression model with 6 labels implemented using feedforward neural network architecture.
 
 Team Member : 
-* M037DKY3884– Deo Ulina Nopiska Marbun
-* M166DSX1489 – Faturrahman Alharitszoe
-* M340DKY3933 – Khusna Hanifah
+Name                      | Bangkit ID 
+------------------------- | ------------
+Deo Ulina Nopiska Marbun  | M037DKY3884  
+Faturrahman Alharitszoe   | M166DSX1489  
+Khusna Hanifah            | M340DKY3933 
 
 ## Datasets
 * [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv)
